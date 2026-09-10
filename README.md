@@ -20,7 +20,7 @@
 <!-- ===================== INTRO ===================== -->
 
 <h1 align="center">
-  👋 Olá, eu sou o Lucas!
+  👋 Olá, eu sou o Lucas Dantas!
 </h1>
 
 <p align="center">
