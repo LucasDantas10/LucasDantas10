@@ -279,12 +279,12 @@
 
 <p align="center">
   ♻️ <strong>Fundamentos e Ações da Economia Circular</strong><br>
-  <a href="certificados/Certificado_Economia%20Circular.pdf">📄 Ver certificado</a>
+  <a href="certificados/Certificado_Transicao%20Economia%20Circular.pdf">📄 Ver certificado</a>
 </p>
 
 <p align="center">
   ♻️ <strong>Acelerando a Transição para a Economia Circular</strong><br>
-  <a href="certificados/Certificado_Transicao%20Economia%20Circular.pdf">📄 Ver certificado</a>
+  <a href="certificados/Certificado_Economia%20Circular.pdf">📄 Ver certificado</a>
 </p>
 
 <p align="center">
