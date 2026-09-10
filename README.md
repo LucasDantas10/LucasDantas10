@@ -1,4 +1,4 @@
-<!-- BANNER -->
+<!-- ===================== BANNER ===================== -->
 
 <p align="center">
   <img src="./assets/banner.png" width="100%">
@@ -6,7 +6,18 @@
 
 <br>
 
-<!-- APRESENTAÇÃO -->
+<!-- ===================== TYPING ===================== -->
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Desenvolvimento+de+Sistemas;Desenvolvimento+Web;Aprendendo+JavaScript;Construindo+meu+futuro+na+tecnologia"
+    alt="Typing animation"
+  />
+</p>
+
+<br>
+
+<!-- ===================== INTRO ===================== -->
 
 <h1 align="center">
   👋 Olá, eu sou o Lucas!
@@ -26,17 +37,32 @@
 
 <br>
 
+<!-- ===================== STATUS ===================== -->
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Estudando-0D1117?style=for-the-badge&logo=bookstack&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/Área-Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=code&logoColor=58A6FF"/>
-  <img src="https://img.shields.io/badge/SENAI-Estudante-0D1117?style=for-the-badge&logo=graduation-cap&logoColor=58A6FF"/>
+
+  <img
+    src="https://img.shields.io/badge/Status-Estudando-0D1117?style=for-the-badge&logo=bookstack&logoColor=58A6FF"
+    alt="Status"
+  />
+
+  <img
+    src="https://img.shields.io/badge/Área-Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"
+    alt="Área"
+  />
+
+  <img
+    src="https://img.shields.io/badge/SENAI-Estudante-0D1117?style=for-the-badge&logo=git&logoColor=58A6FF"
+    alt="SENAI"
+  />
+
 </p>
 
 <br>
 
 ---
 
-<!-- SOBRE MIM -->
+<!-- ===================== SOBRE MIM ===================== -->
 
 <h2>👨‍💻 Sobre mim</h2>
 
@@ -48,39 +74,106 @@
   Gosto de aprender colocando a mão na massa, criando projetos e entendendo como cada tecnologia funciona na prática.
 </p>
 
+<p>
+  Atualmente estou focado em evoluir minhas habilidades e transformar o conhecimento adquirido no curso em projetos reais.
+</p>
+
+<br>
+
 <p align="center">
-  💡 Aprendendo &nbsp; • &nbsp;
-  💻 Desenvolvendo &nbsp; • &nbsp;
-  🚀 Evoluindo
+  💡 <strong>Aprendendo</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  💻 <strong>Desenvolvendo</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🚀 <strong>Evoluindo</strong>
 </p>
 
 <br>
 
 ---
 
-<!-- TECNOLOGIAS -->
+<!-- ===================== TECNOLOGIAS ===================== -->
 
 <h2>🛠️ Tecnologias e Ferramentas</h2>
 
 <p align="center">
+  <strong>LINGUAGENS & DESENVOLVIMENTO</strong>
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5" alt="HTML5"/>
+<p align="center">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3" alt="CSS3"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    width="55"
+    alt="HTML5"
+    title="HTML5"
+  />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript" alt="JavaScript"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    width="55"
+    alt="CSS3"
+    title="CSS3"
+  />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" title="PHP" alt="PHP"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    width="55"
+    alt="JavaScript"
+    title="JavaScript"
+  />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python" alt="Python"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
+    width="55"
+    alt="PHP"
+    title="PHP"
+  />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" title="Git" alt="Git"/>
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+    width="55"
+    alt="Python"
+    title="Python"
+  />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" title="GitHub" alt="GitHub" style="filter: invert(1);"/>
+</p>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL" alt="PostgreSQL"/>
+<br>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" title="Linux" alt="Linux"/>
+<p align="center">
+  <strong>FERRAMENTAS & TECNOLOGIAS</strong>
+</p>
+
+<p align="center">
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+    width="55"
+    alt="Git"
+    title="Git"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+    width="55"
+    alt="GitHub"
+    title="GitHub"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+    width="55"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+  />
+
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+    width="55"
+    alt="Linux"
+    title="Linux"
+  />
 
 </p>
 
@@ -92,7 +185,7 @@
 
 ---
 
-<!-- ESTUDOS -->
+<!-- ===================== ESTUDANDO ===================== -->
 
 <h2>📚 Atualmente estudando</h2>
 
@@ -106,30 +199,29 @@
   🐧 <strong>Linux</strong>
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  HTML &nbsp;•&nbsp; CSS &nbsp;•&nbsp; JavaScript &nbsp;•&nbsp; PHP
 </p>
 
 <p align="center">
-  <strong>HTML • CSS • JavaScript • PHP • Python • PostgreSQL • JSON</strong>
+  Python &nbsp;•&nbsp; PostgreSQL &nbsp;•&nbsp; JSON
 </p>
 
 <br>
 
-
 ---
 
-<!-- FORMAÇÃO -->
+<!-- ===================== FORMAÇÃO ===================== -->
 
 <h2>🎓 Formação</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SENAI-Técnico%20em%20Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=graduation-cap&logoColor=58A6FF"/>
+  <img
+    src="https://img.shields.io/badge/SENAI-Técnico%20em%20Desenvolvimento%20de%20Sistemas-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"
+    alt="SENAI"
+  />
 </p>
 
 <p align="center">
@@ -145,62 +237,76 @@
 
 ---
 
-<!-- PROJETOS -->
+<!-- ===================== PROJETOS ===================== -->
 
 <h2>🚀 Projetos</h2>
 
 <p align="center">
-  <strong>Construindo projetos para transformar aprendizado em prática.</strong>
+  <strong>Transformando aprendizado em projetos.</strong>
 </p>
 
 <br>
 
 <p align="center">
-  💻 <strong>Desenvolvimento Web</strong><br>
+  💻 <strong>Desenvolvimento Web</strong>
+</p>
+
+<p align="center">
   Projetos utilizando HTML, CSS e JavaScript.
 </p>
 
+<br>
+
 <p align="center">
-  ⚙️ <strong>Desenvolvimento de Sistemas</strong><br>
-  Projetos desenvolvidos durante minha formação.
+  ⚙️ <strong>Desenvolvimento de Sistemas</strong>
 </p>
 
 <p align="center">
-  🗄️ <strong>Banco de Dados</strong><br>
+  Projetos desenvolvidos durante minha formação.
+</p>
+
+<br>
+
+<p align="center">
+  🗄️ <strong>Banco de Dados</strong>
+</p>
+
+<p align="center">
   Práticas envolvendo PostgreSQL e JSON.
 </p>
 
 <br>
 
 <p align="center">
-  🔨 <strong>Mais projetos serão adicionados conforme minha evolução.</strong>
+  🔨 <strong>Novos projetos serão adicionados conforme minha evolução.</strong>
 </p>
 
 <br>
 
 ---
 
-<!-- GITHUB -->
+<!-- ===================== GITHUB ===================== -->
 
 <h2>📊 GitHub</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=LucasDantas10&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    height="170"
+    src="https://komarev.com/ghpvc/?username=LucasDantas10&color=58A6FF&style=for-the-badge&label=VISITAS+NO+PERFIL"
+    alt="Profile views"
   />
+</p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasDantas10&layout=compact&theme=github_dark&hide_border=true"
-    height="170"
-  />
+<p align="center">
+  💻 Código &nbsp;•&nbsp;
+  📚 Aprendizado &nbsp;•&nbsp;
+  🚀 Evolução
 </p>
 
 <br>
 
 ---
 
-<!-- COBRINHA -->
+<!-- ===================== SNAKE ===================== -->
 
 <h2>🐍 Minhas contribuições</h2>
 
@@ -216,23 +322,23 @@
 
 ---
 
-<!-- CONTATO -->
+<!-- ===================== CONTATO ===================== -->
 
 <h2>📫 Entre em contato</h2>
 
 <p align="center">
 
-  <a href="https://www.instagram.com/l_dantz10">
+  <a href="https://github.com/LucasDantas10">
     <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="Instagram"
+      src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"
+      alt="GitHub"
     />
   </a>
 
-  <a href="https://github.com/LucasDantas10">
+  <a href="https://www.instagram.com/l_dantz10">
     <img
-      src="https://img.shields.io/badge/GitHub-58A6FF?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
+      src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"
+      alt="Instagram"
     />
   </a>
 
@@ -242,10 +348,15 @@
 
 ---
 
+<!-- ===================== FINAL ===================== -->
+
 <p align="center">
-  <strong>💻 Aprendendo. Criando. Evoluindo.</strong>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Aprendendo.+Criando.+Evoluindo.+🚀"
+    alt="Final animation"
+  />
 </p>
 
 <p align="center">
-  ⭐ Obrigado por visitar meu perfil!
+  <sub>⭐ Obrigado por visitar meu perfil!</sub>
 </p>
