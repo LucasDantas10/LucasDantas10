@@ -96,37 +96,31 @@
 
 <h2>📚 Atualmente estudando</h2>
 
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      🌐<br>
-      <strong>Desenvolvimento Web</strong>
-    </td>
-
-    <td align="center" width="200">
-      ⚙️<br>
-      <strong>Backend</strong>
-    </td>
-
-    <td align="center" width="200">
-      🗄️<br>
-      <strong>Banco de Dados</strong>
-    </td>
-
-    <td align="center" width="200">
-      🐧<br>
-      <strong>Linux</strong>
-    </td>
-  </tr>
-</table>
-
-<br>
+<p align="center">
+  🌐 <strong>Desenvolvimento Web</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  ⚙️ <strong>Backend</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🗄️ <strong>Banco de Dados</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  🐧 <strong>Linux</strong>
+</p>
 
 <p align="center">
-  HTML • CSS • JavaScript • PHP • Python • PostgreSQL • JSON
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+</p>
+
+<p align="center">
+  <strong>HTML • CSS • JavaScript • PHP • Python • PostgreSQL • JSON</strong>
 </p>
 
 <br>
+
 
 ---
 
