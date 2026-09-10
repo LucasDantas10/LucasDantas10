@@ -2,13 +2,25 @@
   <img src="./assets/banner.png" width="100%">
 </p>
 
-# 👋 Olá, eu sou o Lucas!
+<h1 align="center">👋 Olá, eu sou o Lucas!</h1>
 
-### 🎓 Técnico em Desenvolvimento de Sistemas | SENAI
+<p align="center">
+  🎓 Técnico em Desenvolvimento de Sistemas | SENAI
+</p>
 
-Estudante de Desenvolvimento de Sistemas, aprendendo desenvolvimento web e programação através de projetos práticos.
+<p align="center">
+  Estudante de Desenvolvimento de Sistemas, aprendendo desenvolvimento web e programação através de projetos práticos.
+</p>
 
-Gosto de transformar ideias em projetos e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+<p align="center">
+  Gosto de transformar ideias em projetos e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
+</p>
+
+<p align="center">
+  💻 Aprendendo • 🛠️ Criando • 🚀 Evoluindo
+</p>
+
+
 
 ---
 
