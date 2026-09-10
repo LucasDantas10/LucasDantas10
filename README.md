@@ -59,7 +59,21 @@
   <strong>Técnico em Desenvolvimento de Sistemas</strong><br>
   SENAI
 </p>
+
 ---
+
+<h2>📫 Contato</h2>
+
+<p align="left">
+  <a href="https://www.instagram.com/l_dantz10">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+
+  <a href="https://github.com/LucasDantas10">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 
 ## 🚀 Projetos
 
