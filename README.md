@@ -53,11 +53,12 @@
 
 ---
 
-## 🎓 Formação
+<h2>🎓 Formação</h2>
 
-**Técnico em Desenvolvimento de Sistemas**  
-SENAI
-
+<p>
+  <strong>Técnico em Desenvolvimento de Sistemas</strong><br>
+  SENAI
+</p>
 ---
 
 ## 🚀 Projetos
