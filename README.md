@@ -1,47 +1,44 @@
-# Olá, eu sou o Lucas!
+# 👋 Olá, eu sou o Lucas!
 
-### Técnico em Desenvolvimento de Sistemas | SENAI
+### 🎓 Técnico em Desenvolvimento de Sistemas | SENAI
 
-Estudante de Desenvolvimento Web
- prendendo, criando e evoluindo através de projetos práticos.
+Estudante de Desenvolvimento de Sistemas, aprendendo desenvolvimento web e programação através de projetos práticos.
 
----
-
-## Sobre mim
-
-Sou estudante do curso técnico de **Desenvolvimento de Sistemas no SENAI**.
-
-Atualmente estou aprendendo desenvolvimento web e conhecendo cada vez mais sobre programação, tecnologia e desenvolvimento de software.
-
-Gosto de transformar ideias em projetos e aprender na prática.
+Gosto de transformar ideias em projetos e estou sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 
 ---
 
-## Tecnologias
+## 🛠️ Minhas tecnologias
 
-* HTML
-* CSS
-* JavaScript
-* Git
-* GitHub
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
 
 ---
 
-## Atualmente estudando
+## 📚 Atualmente estudando
 
-🔹 HTML e CSS
-🔹 JavaScript
-🔹 Git e GitHub
-🔹 Desenvolvimento Web
+🔹 HTML e CSS  
+🔹 JavaScript  
+🔹 Git e GitHub  
+🔹 Desenvolvimento Web  
 🔹 Desenvolvimento de Sistemas
 
 ---
 
-## Formação
+## 🎓 Formação
 
-**Curso Técnico em Desenvolvimento de Sistemas**
+**Técnico em Desenvolvimento de Sistemas**  
 SENAI
 
 ---
 
-### Sempre aprendendo, criando e evoluindo.
+## 🚀 Projetos
+
+Em breve, novos projetos estarão disponíveis por aqui!
+
+---
+
+### Sempre aprendendo, criando e evoluindo. 🚀
