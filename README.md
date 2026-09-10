@@ -155,27 +155,20 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      💻<br><br>
-      <strong>Desenvolvimento Web</strong><br>
-      Projetos utilizando HTML, CSS e JavaScript.
-    </td>
+<p align="center">
+  💻 <strong>Desenvolvimento Web</strong><br>
+  Projetos utilizando HTML, CSS e JavaScript.
+</p>
 
-    <td align="center" width="300">
-      ⚙️<br><br>
-      <strong>Desenvolvimento de Sistemas</strong><br>
-      Projetos desenvolvidos durante minha formação.
-    </td>
+<p align="center">
+  ⚙️ <strong>Desenvolvimento de Sistemas</strong><br>
+  Projetos desenvolvidos durante minha formação.
+</p>
 
-    <td align="center" width="300">
-      🗄️<br><br>
-      <strong>Banco de Dados</strong><br>
-      Práticas envolvendo dados, PostgreSQL e JSON.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  🗄️ <strong>Banco de Dados</strong><br>
+  Práticas envolvendo PostgreSQL e JSON.
+</p>
 
 <br>
 
