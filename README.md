@@ -155,13 +155,6 @@
   />
 
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    width="55"
-    alt="GitHub"
-    title="GitHub"
-  />
-
-  <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
     width="55"
     alt="PostgreSQL"
