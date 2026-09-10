@@ -62,6 +62,23 @@
 
 ---
 
+<h2>🐍 Minhas contribuições</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucasDantas10/LucasDantas10/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+</p>
+
+---
+
+
+
+
+## 🚀 Projetos
+
+Em breve, novos projetos estarão disponíveis por aqui!
+
+---
+
 <h2>📫 Contato</h2>
 
 <p align="left">
@@ -73,12 +90,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
----
-
-## 🚀 Projetos
-
-Em breve, novos projetos estarão disponíveis por aqui!
 
 ---
 
