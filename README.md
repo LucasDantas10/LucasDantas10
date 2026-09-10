@@ -96,11 +96,11 @@
 
 <h2>🛠️ Tecnologias e Ferramentas</h2>
 
-<p align="center">
+<p align="left">
   <strong>LINGUAGENS & DESENVOLVIMENTO</strong>
 </p>
 
-<p align="center">
+<p align="left">
 
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
@@ -141,11 +141,11 @@
 
 <br>
 
-<p align="center">
+<p align="left">
   <strong>FERRAMENTAS & TECNOLOGIAS</strong>
 </p>
 
-<p align="center">
+<p align="left">
 
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
@@ -177,7 +177,7 @@
 
 </p>
 
-<p align="center">
+<p align="left">
   <strong>HTML • CSS • JavaScript • PHP • Python • Git • GitHub • PostgreSQL • Linux • JSON</strong>
 </p>
 
