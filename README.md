@@ -247,6 +247,65 @@
   📊 <strong>Excel Básico</strong><br>
   <a href="certificados/Certificado_Excel%20B%C3%A1sico.pdf">📄 Ver certificado</a>
 </p>
+
+<p align="center">
+  🤖 <strong>FluêncIA — Fundamentos da Inteligência Artificial</strong><br>
+  <a href="certificados/Certificado_Fundamentos%20IA.pdf">📄 Ver certificado</a>
+</p>
+
+<p align="center">
+  🧠 <strong>Ética na Inteligência Artificial</strong><br>
+  <a href="certificados/Certificado_%C3%89tica%20na%20Intelig%C3%AAncia%20Artificial.pdf">📄 Ver certificado</a>
+</p>
+
+<p align="center">
+  🔐 <strong>Por Dentro da Segurança Cibernética</strong><br>
+  <a href="certificados/Certificado_Por%20dentro%20da%20Seguran%C3%A7a%20Cibern%C3%A9tica.pdf">📄 Ver certificado</a>
+</p>
+
+<p align="center">
+  ☁️ <strong>Implantação de Serviços em Nuvem — Microsoft AZ-900</strong><br>
+  <a href="certificados/Certificado_Implanta%C3%A7%C3%A3o%20de%20Servi%C3%A7os%20em%20Nuvem%20-%20Microsoft%20AZ-900.pdf">📄 Ver certificado</a>
+</p>
+
+<br>
+
+<h3 align="center">🌱 Sustentabilidade</h3>
+
+<p align="center">
+  ♻️ <strong>Ciclos de Retorno para a Economia Circular</strong><br>
+  <a href="certificados/Certificado_Ciclos%20de%20Retorno.pdf">📄 Ver certificado</a>
+</p>
+
+<p align="center">
+  ♻️ <strong>Fundamentos e Ações da Economia Circular</strong><br>
+  <a href="certificados/Certificado_Economia%20Circular.pdf">📄 Ver certificado</a>
+</p>
+
+<p align="center">
+  ♻️ <strong>Acelerando a Transição para a Economia Circular</strong><br>
+  <a href="certificados/Certificado_Transicao%20Economia%20Circular.pdf">📄 Ver certificado</a>
+</p>
+
+<p align="center">
+  🌱 <strong>Desvendando a Descarbonização</strong><br>
+  <a href="certificados/Certificado_Desvendando%20a%20Descarboniza%C3%A7%C3%A3o.pdf">📄 Ver certificado</a>
+</p>
+
+<br>
+
+<h3 align="center">🦺 Formação Profissional</h3>
+
+<p align="center">
+  🦺 <strong>Segurança no Trabalho</strong><br>
+  <a href="certificados/Certificado_Compet%C3%AAncia%20Transversal%20-%20Seguran%C3%A7a%20no%20Trabalho.pdf">📄 Ver certificado</a>
+</p>
+
+<br>
+
+---
+
+
 <!-- ===================== PROJETOS ===================== -->
 
 <h2>🚀 Projetos</h2>
