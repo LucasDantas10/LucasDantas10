@@ -70,12 +70,16 @@
 
 ---
 
+<h2>🚀 Projetos</h2>
 
+<p>
+  Estou desenvolvendo projetos para colocar em prática
+  meus conhecimentos em desenvolvimento web e sistemas.
+</p>
 
-
-## 🚀 Projetos
-
-Em breve, novos projetos estarão disponíveis por aqui!
+<p align="center">
+  💻 Em breve, novos projetos por aqui.
+</p>
 
 ---
 
