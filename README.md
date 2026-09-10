@@ -343,11 +343,18 @@
 
 <!-- ===================== FINAL ===================== -->
 
+<br>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=Aprendendo.+Criando.+Evoluindo.+🚀"
-    alt="Final animation"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:58A6FF&height=120&section=footer"
+    width="100%"
+    alt="Footer animation"
   />
+</p>
+
+<p align="center">
+  <strong>💻 Aprendendo. Criando. Evoluindo. 🚀</strong>
 </p>
 
 <p align="center">
