@@ -410,6 +410,45 @@
       alt="Instagram"
     />
   </a>
+  <!-- ===================== CONTATO ===================== -->
+
+<h2>📫 Entre em contato</h2>
+
+<p align="center">
+
+  <a href="https://github.com/LucasDantas10">
+    <img
+      src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"
+      alt="GitHub"
+    />
+  </a>
+
+  <a href="https://www.instagram.com/l_dantz10">
+    <img
+      src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"
+      alt="Instagram"
+    />
+  </a>
+
+  <a href="mailto:lucas.dantas1078@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"
+      alt="Email"
+    />
+  </a>
+
+  <a href="https://wa.me/5519994832216">
+    <img
+      src="https://img.shields.io/badge/WhatsApp-0D1117?style=for-the-badge&logo=whatsapp&logoColor=25D366"
+      alt="WhatsApp"
+    />
+  </a>
+
+</p>
+
+<br>
+
+---
 
 </p>
 
