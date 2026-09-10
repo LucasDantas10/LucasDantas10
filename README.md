@@ -237,7 +237,7 @@
 <br>
 
 <p align="center">
-  <strong>💻 Tecnologia</strong>
+  <strong><h3>💻 Tecnologia</h3></strong>
 </p>
 
 <p align="center">
@@ -273,7 +273,7 @@
 <br>
 
 <p align="center">
-  <strong>🌱 Sustentabilidade</strong>
+  <strong><h3>🌱 Sustentabilidade</h3></strong>
 </p>
 
 <p align="center">
@@ -299,7 +299,7 @@
 <br>
 
 <p align="center">
-  <strong>🦺 Formação Profissional</strong>
+  <strong><h3>🦺 Formação Profissional</h3></strong>
 </p>
 
 <p align="center">
