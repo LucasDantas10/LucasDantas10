@@ -39,13 +39,17 @@
 
 ---
 
-## 📚 Atualmente estudando
+<h2>📚 Atualmente estudando</h2>
 
-🔹 HTML e CSS  
-🔹 JavaScript  
-🔹 Git e GitHub  
-🔹 Desenvolvimento Web  
-🔹 Desenvolvimento de Sistemas
+<p>
+  🔹 HTML, CSS e JavaScript<br>
+  🔹 PHP e Python<br>
+  🔹 Git e GitHub<br>
+  🔹 PostgreSQL e JSON<br>
+  🔹 Linux<br>
+  🔹 Desenvolvimento Web<br>
+  🔹 Desenvolvimento de Sistemas
+</p>
 
 ---
 
